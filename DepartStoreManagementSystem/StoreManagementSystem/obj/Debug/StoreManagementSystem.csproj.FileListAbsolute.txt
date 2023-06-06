@@ -1,0 +1,28 @@
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe.config
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.FormHome.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.Properties.Resources.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.Login.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.Product.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.Purchase.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.Sale.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.User.resources
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.pdb
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.exe
+C:\Users\Jeevithesh\Desktop\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.pdb
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe.config
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.exe
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.pdb
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.pdb
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.Properties.Resources.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.GenerateResource.Cache
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmLogin.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmProduct.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmPurchase.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmSale.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmUser.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UI.frmHome.resources
+F : \Projects\StoreManagementSystem\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csprojResolveAssemblyReference.cache
